@@ -41,8 +41,8 @@ const Card2 = () => {
             <br /> <br />
     
             <a
-              href="hello"
-              class="   inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300" href="https://github.com/Murali149/projectHimalayaSiteclone"
+              
+              class="   inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300" href="https://github.com/Murali149/projectHimalayaSiteclone" target="_blank"
             >
               Code
               <svg
@@ -62,8 +62,8 @@ const Card2 = () => {
             <a  href="">     </a>
     
             <a
-              href="hello"
-              class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300" href="https://project-himalaya-siteclone-jyp73t7wl-murali149.vercel.app"
+            
+              class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300" href="https://project-himalaya-siteclone-jyp73t7wl-murali149.vercel.app" target="_blank"
             >
               Demo
               <svg

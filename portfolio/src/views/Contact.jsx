@@ -128,6 +128,7 @@ const Contact = () => {
               {contactLinks.map((el) => (
                 <a
                   href={el.link}
+                  target="_blank"
                   className="md:ml-6 md:mr-0 mr-6 cursor-pointer mt-4 hover:scale-125 flex flex-col justify-center items-center"
                 >
                   <img alt="" src={el.url} />

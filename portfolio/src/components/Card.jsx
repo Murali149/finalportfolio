@@ -41,8 +41,8 @@ const Card = () => {
         <br /> <br />
 
         <a
-          href="hello"
-          class="   inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300" href="https://github.com/Murali149/Wallmart-clone"
+         
+          class="   inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300" href="https://github.com/Murali149/Wallmart-clone" target="_blank"
         >
           Code
           <svg
@@ -62,8 +62,8 @@ const Card = () => {
         <a  href="">     </a>
 
         <a
-          href="hello"
-          class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300" href="https://sarath-194.github.io/walmart/body.html#"
+          
+          class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300" href="https://sarath-194.github.io/walmart/body.html#" target="_blank"
         >
           Demo
           <svg
