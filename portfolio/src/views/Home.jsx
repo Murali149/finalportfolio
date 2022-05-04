@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import heroBg from "../assets/webdev.svg";
+import profilePic from "../assets/profile_pic.png";
 import Typical from "react-typical";
 import { contactLinks } from "../constants";
 import { ThemeContext } from "../themeProvider";
@@ -92,11 +93,12 @@ const Home = () => {
                   type: "spring",
                 },
               },
-              hidden: { opacity: 1, y: 80 },
+              hidden: { opacity: 1, y: 0 },
             }}
-            src={heroBg}
+            // src={heroBg}
+            src={profilePic}
             alt=""
-            className="md:w-3/6 hidden sm:block"
+            className="md:w-1/4 hidden sm:block"
           />
         </main>
       </div>
