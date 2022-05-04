@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import heroBg from "../assets/webdev.svg";
-import profilePic from "../assets/profile_pic.png";
+import profilePic from "../assets/profile-picture2.png";
 import Typical from "react-typical";
 import { contactLinks } from "../constants";
 import { ThemeContext } from "../themeProvider";
@@ -98,7 +98,7 @@ const Home = () => {
             // src={heroBg}
             src={profilePic}
             alt=""
-            className="md:w-1/4 hidden sm:block"
+            className="md:w-1/4  sm:block"
           />
         </main>
       </div>
